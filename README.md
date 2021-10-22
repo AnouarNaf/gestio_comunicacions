@@ -1,1 +1,2 @@
 # gestio_comunicacions
+HOLA
