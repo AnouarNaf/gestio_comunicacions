@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnexioPostgresql", "ConnexioPostgresql\ConnexioPostgresql.csproj", "{9AEFC37A-33C5-4B6C-877E-93AE66079394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEFC37A-33C5-4B6C-877E-93AE66079394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEFC37A-33C5-4B6C-877E-93AE66079394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEFC37A-33C5-4B6C-877E-93AE66079394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEFC37A-33C5-4B6C-877E-93AE66079394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {214D1B1E-233E-44AE-B6B2-56D5B628BD35}
+	EndGlobalSection
+EndGlobal
